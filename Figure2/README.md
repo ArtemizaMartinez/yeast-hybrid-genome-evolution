@@ -46,3 +46,30 @@ experimental results.
 No custom analysis or plotting code was used to generate this panel.
 The strain identities, experimental conditions, and corresponding
 quantitative data are provided in the Methods section associated with the article.
+
+## Figure 2c: Quantification of thermotolerance from spot assays
+
+Spot-assay images acquired at 30 °C and 37 °C were quantified in
+Fiji/ImageJ. Integrated spot intensities were measured for four serial
+dilutions from each biological culture using consistent image-processing
+and measurement settings.
+
+Several approaches for summarizing growth across the dilution series were
+evaluated. The final analysis used the equal-average method. For each
+biological culture, spot intensities were averaged equally across the four
+dilutions at each temperature:
+
+- `S30_equal`: mean spot intensity across four dilutions at 30 °C
+- `S37_equal`: mean spot intensity across four dilutions at 37 °C
+- `R_equal`: `S37_equal / S30_equal`
+
+The Figure 2c plot shows individual generation-0 `R_equal` measurements,
+together with the mean and 95% confidence interval for each background.
+
+The plot was generated in R using `ggplot2` and subsequently edited in
+Adobe Illustrator to adjust colors, typography, labels, spacing, and final
+panel layout. These graphical modifications did not alter the underlying
+numerical values.
+
+The complete Fiji/ImageJ measurements and processed thermotolerance values
+are provided in the Source Data file associated with the article. 
