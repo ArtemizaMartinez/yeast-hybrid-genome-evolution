@@ -9,8 +9,3 @@ This directory contains the processed input data and custom scripts used to repr
 - Figure 1c: Summary of recombinant segregants
 - Figure 1d: Ancestry blocks and recombination patterns across recombinant segregants.
 
-## Directory structure
-
-- `data/`: processed input data
-- `scripts/`: analysis and plotting scripts
-- `output/`: reproducible tables and plots
