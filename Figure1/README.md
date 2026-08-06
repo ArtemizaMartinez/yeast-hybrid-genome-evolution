@@ -6,8 +6,8 @@ This directory contains the processed input data and custom scripts used to repr
 
 - Figure 1a: Author-created schematic assembled in Adobe Illustrator; no custom analysis code was used.
 - Figure 1b: Spore viability and fully viable tetrad analysis.
-- Figure 1c: Parental ancestry blocks and recombination patterns across recombinant hybrid segregants.
-- Figure 1d: Summary of recombinant and uniparental chromosome inheritance.
+- Figure 1c: Summary of recombinant segregants
+- Figure 1d: Ancestry blocks and recombination patterns across recombinant segregants.
 
 ## Directory structure
 
