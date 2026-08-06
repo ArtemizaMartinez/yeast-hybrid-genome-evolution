@@ -29,3 +29,20 @@ final panel layout were added during figure assembly.
 No custom analysis or plotting code was used for this panel. The strain
 identities and associated genotype information are provided in the Source
 Data and Supplementary Information associated with the article.
+
+## Figure 2b: Spot-dilution assays across temperatures
+
+Figure 2b shows spot-dilution assays of parental strains, the F1 hybrid,
+and recombinant segregants grown at 30 °C, 37 °C, and 16 °C.
+
+Five-fold serial dilutions were plated and incubated for 2 days at
+30 °C and 37 °C and for 3 days at 16 °C.
+
+The original plate images were cropped, aligned, labeled, and assembled
+in Adobe Illustrator. Image adjustments were limited to figure layout,
+spacing, labels, and graphical presentation and did not alter the
+experimental results.
+
+No custom analysis or plotting code was used to generate this panel.
+The strain identities, experimental conditions, and corresponding
+quantitative data are provided in the Methods section associated with the article.
