@@ -7,9 +7,7 @@
 # S. paradoxus were identified using SynChro. The resulting RBH table was
 # then plotted as chromosome-specific synteny scatter plots.
 #
-# The complete underlying values are provided in the supplementary
-# information and associated source files.
-#
+
 # The exported plots were subsequently assembled and formatted in
 # Adobe Illustrator.
 
