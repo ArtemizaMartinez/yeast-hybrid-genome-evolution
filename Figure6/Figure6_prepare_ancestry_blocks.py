@@ -23,7 +23,7 @@ chr_sizes_df = pd.read_csv(
 
 # Load annotated ancestry blocks
 annotations_df = pd.read_csv(
-    "1A_Sc_annotation_Rcircos.txt",
+    "1A_ce_annotation_Rcircos.txt",
     sep="\t"
 )
 
@@ -86,7 +86,7 @@ for chromosome in chr_sizes_df["Chromosome"]:
 plot_data = pd.DataFrame(data)
 
 # Save table for downstream plotting
-output_file_path = "1A_Sp_annotation_Rcircos.txt"
+output_file_path = "1A_pa_annotation_Rcircos.txt"
 
 plot_data.to_csv(
     output_file_path,
