@@ -9,7 +9,7 @@
 # in the correlation plot.
 #
 # The complete underlying values are provided in the supplementary
-# information and associated source files.
+# data
 #
 # The exported plot was subsequently assembled and formatted in
 # Adobe Illustrator.
