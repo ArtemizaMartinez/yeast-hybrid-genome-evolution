@@ -18,3 +18,11 @@ This directory contains processed input data and custom scripts used to reproduc
 ## Notes
 
 Microscopy images, spot-assay images, flow-cytometry profiles and author-created schematics are documented separately when no custom plotting code was used. Final figure assembly was performed in Adobe Illustrator.
+
+## Panels Supplementary Figure 2
+
+- Figure S2a: Tetrad-dissection images; no custom plotting code was used.
+- Figure S2b: Parental ancestry and recombination maps for Tetrads 2–5. These maps were generated using the same chromosome-ancestry workflow described for Figure 1d.
+- Figure S2c: Relationship between chromosome size and the number of uniparental inheritance events. A quasi-Poisson generalized linear model with a log link was used to visualize the relationship.
+
+
