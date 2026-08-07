@@ -62,7 +62,7 @@ also available from their original publications.
 The base plots were generated in R and subsequently assembled and formatted
 in Adobe Illustrator.
 
-# Panels Supplementary Figure 8
+## Panels Supplementary Figure 8
 
 Supplementary Figure 8 extends the recurrent-mutation analyses shown in
 Figure 5 to the parental experimental-evolution datasets.
@@ -85,7 +85,7 @@ provided in the Source Data file associated with the article.
 Final graphical formatting and panel assembly were performed in
 Adobe Illustrator.
 
-# Panels Supplementary Figure 9
+## Panels Supplementary Figure 9
 
 Supplementary Figure 9 examines residue-level sequence divergence between
 orthologous proteins relevant to the recurrent-mutation analysis.
