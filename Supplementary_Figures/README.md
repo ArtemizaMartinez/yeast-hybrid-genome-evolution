@@ -34,3 +34,12 @@ Microscopy images, spot-assay images, flow-cytometry profiles and author-created
 - Figure S3e: Spot-assay and mitochondrial-ancestry panel assembled from experimental images and processed genomic information.
 
 
+## Panels Supplementary Figure 6
+
+- Figure S6d: Representative flow-cytometry profiles used to validate
+  inferred ploidy states. Cells were prepared for DNA-content analysis
+  using Sytox Green staining following ethanol fixation, RNase A and
+  proteinase K treatment. No custom plotting code was used for this panel.
+
+Final panel assembly and graphical formatting were performed in
+Adobe Illustrator.
