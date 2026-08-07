@@ -26,3 +26,11 @@ Microscopy images, spot-assay images, flow-cytometry profiles and author-created
 - Figure S2c: Relationship between chromosome size and the number of uniparental inheritance events. A quasi-Poisson generalized linear model with a log link was used to visualize the relationship.
 
 
+## Panels Supplementary Figure 3
+
+- Figure S3a: Microscopy images of recombinant segregants; no custom plotting code was used.
+- Figures S3b-c: Growth curves at 30 °C and 37 °C generated from OD600 measurements collected over time. Mean OD600 values were calculated across replicate measurements, with variability among replicates summarized for plotting.
+- Figure S3d: Growth parameters were estimated by fitting growth curves to a Gompertz model using `scipy.optimize.curve_fit` in Python. The resulting growth-rate estimates were compared with competitive-fitness measurements.
+- Figure S3e: Spot-assay and mitochondrial-ancestry panel assembled from experimental images and processed genomic information.
+
+
