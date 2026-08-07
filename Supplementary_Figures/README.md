@@ -99,8 +99,15 @@ These processed alignment tables were then visualized in R as
 residue-level divergence plots. For selected proteins, annotated
 functional regions were additionally highlighted.
 
-Final graphical formatting and panel assembly were performed in
-Adobe Illustrator.
+## Panel Supplementary Figure 10
+
+Supplementary Figure 10 shows structural models of the Ku protein complex.
+
+Protein sequences were analyzed using AlphaFold to generate structural
+predictions of Ku proteins. 
+
+No custom analysis or plotting scripts for this figure are included in
+this repository.
 
 ## Final panel assembly and graphical formatting were performed in Adobe Illustrator.
 
