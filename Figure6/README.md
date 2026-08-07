@@ -8,10 +8,6 @@ This directory contains the processed input data and custom scripts used to repr
 - Figure 6b: Association between recurrent HSP104 mutation and segregant genetic background.
 - Figure 6c: Chromosome IV haplotype and candidate modifier analysis.
 
-## Directory structure
 
-- `data/`: processed mutation, genotype and haplotype data
-- `scripts/`: statistical-analysis and plotting scripts
-- `output/`: reproducible summary tables and plots
-
-Protein and genome schematics were assembled by the authors using processed analysis outputs. Final panel assembly was performed in Adobe Illustrator.
+## Notes
+Genome schematics were assembled by the authors using processed analysis outputs. Final panel assembly was performed in Adobe Illustrator.
