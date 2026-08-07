@@ -8,5 +8,5 @@ This directory contains the processed input data and custom scripts used to repr
 - Figure 5b: Mutational-spectrum and gene-level selection analyses.
 - Figure 5c: Exploratory enrichment analysis of missense mutations in hybrid and uniparental two-subunit protein complexes.
 
-## Noted
+## Notes
 Final panel assembly was performed in Adobe Illustrator.
