@@ -41,5 +41,28 @@ Microscopy images, spot-assay images, flow-cytometry profiles and author-created
   using Sytox Green staining following ethanol fixation, RNase A and
   proteinase K treatment. No custom plotting code was used for this panel.
 
-Final panel assembly and graphical formatting were performed in
-Adobe Illustrator.
+
+## Panels Supplementary Figure 7
+
+- Figure S7a: Number of evolved populations per genetic background and ploidy state.
+- Figure S7b: Relative proportions of mutation classes across hybrid populations,
+  parental controls, and previously published experimental-evolution datasets.
+- Figure S7c: Distribution of missense mutation counts across evolved hybrid populations.
+- Figure S7d: Distribution of mutation counts in a previously published
+  S. cerevisiae experimental-evolution dataset used for comparison.
+
+Previously published experimental-evolution datasets generated in the lab
+were included as reference datasets to compare mutation spectra and
+mutation-count distributions with the hybrid populations analyzed in this study.
+
+The complete underlying values used for the figure are provided in the
+Source Data file associated with the article. Previously published data are
+also available from their original publications.
+
+The base plots were generated in R and subsequently assembled and formatted
+in Adobe Illustrator.
+
+## Final panel assembly and graphical formatting were performed in Adobe Illustrator.
+
+
+
