@@ -85,6 +85,23 @@ provided in the Source Data file associated with the article.
 Final graphical formatting and panel assembly were performed in
 Adobe Illustrator.
 
+# Panels Supplementary Figure 9
+
+Supplementary Figure 9 examines residue-level sequence divergence between
+orthologous proteins relevant to the recurrent-mutation analysis.
+
+Pairwise protein alignments were first processed in Python using
+Biopython to calculate alignment statistics and export residue-level
+alignment tables. Each aligned position was classified as a match,
+mismatch, or gap.
+
+These processed alignment tables were then visualized in R as
+residue-level divergence plots. For selected proteins, annotated
+functional regions were additionally highlighted.
+
+Final graphical formatting and panel assembly were performed in
+Adobe Illustrator.
+
 ## Final panel assembly and graphical formatting were performed in Adobe Illustrator.
 
 
