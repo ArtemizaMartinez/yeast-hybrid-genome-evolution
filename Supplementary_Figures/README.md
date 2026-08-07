@@ -5,8 +5,8 @@ This directory contains processed input data and custom scripts used to reproduc
 ## Contents
 
 - Supplementary Figure 1: Genome synteny and orthologous-gene length comparisons.
-- Supplementary Figure 2: Tetrad dissection, ancestry tracks and uniparental chromosome analysis.
-- Supplementary Figure 3: Phenotypic segregation, growth and mitochondrial ancestry.
+- Supplementary Figure 2: Tetrad dissection, ancestry tracks and chromosome analysis.
+- Supplementary Figure 3: Phenotypic segregation, growth and mitochondrial analysis.
 - Supplementary Figure 4: Protein-complex composition and mutation counts.
 - Supplementary Figure 5: Thermotolerance trajectories.
 - Supplementary Figure 6: Mutation homozygosity and autodiploidization.
@@ -15,12 +15,6 @@ This directory contains processed input data and custom scripts used to reproduc
 - Supplementary Figure 9: HSP104 and BSC1 mutational patterns.
 - Supplementary Figure 10: Structural locations of evolved Ku70 and Ku80 mutations.
 
-## Directory structure
-
-Each supplementary figure may contain:
-
-- `data/`: processed input data
-- `scripts/`: analysis and plotting scripts
-- `output/`: reproducible tables and plots
+## Notes
 
 Microscopy images, spot-assay images, flow-cytometry profiles and author-created schematics are documented separately when no custom plotting code was used. Final figure assembly was performed in Adobe Illustrator.
