@@ -62,6 +62,29 @@ also available from their original publications.
 The base plots were generated in R and subsequently assembled and formatted
 in Adobe Illustrator.
 
+# Panels Supplementary Figure 8
+
+Supplementary Figure 8 extends the recurrent-mutation analyses shown in
+Figure 5 to the parental experimental-evolution datasets.
+
+The analyses followed the same general workflows used for Figures 5a and
+5c, but were applied to mutations identified in the evolved parental
+populations, with the analysis focused on missense mutations.
+
+- The recurrent gene-level mutation analysis followed the workflow
+  described for Figure 5a.
+- The protein-complex enrichment analysis followed the workflow described
+  for Figure 5c.
+
+The corresponding scripts are therefore not duplicated here and can be
+found in the `Figure5` directory.
+
+The complete numerical values underlying Supplementary Figure 8 are
+provided in the Source Data file associated with the article.
+
+Final graphical formatting and panel assembly were performed in
+Adobe Illustrator.
+
 ## Final panel assembly and graphical formatting were performed in Adobe Illustrator.
 
 
