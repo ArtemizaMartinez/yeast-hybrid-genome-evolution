@@ -8,4 +8,13 @@ This directory contains the processed input data and custom scripts used to repr
 - Figure 3b: Distribution of essential and non-essential two-subunit complexes across grouped hybrid-complex frequencies.
 
 
-Final panel assembly and author-created graphical elements were prepared in Adobe Illustrator.
+The underlying complex-classification tables and statistical summaries were
+prepared in Microsoft Excel. The numerical values used for the figure,
+including observed and expected distributions and the associated statistical
+summary, are provided in the Source Data file.
+
+The base plots were generated in Microsoft Excel from these processed tables
+and were subsequently refined and assembled in Adobe Illustrator for final
+presentation.
+
+No additional custom plotting code was used for this figure.
